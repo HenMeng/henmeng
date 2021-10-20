@@ -126,10 +126,6 @@
           logo: www.shephe.com.png
           url: https://www.shephe.com/
           description: 牧羊人
-        - title: 陈大猫
-          logo: chidd.net.png
-          url: https://chidd.net/
-          description: 陈大猫
         - title: NetCafe
           logo: hijoe.net.png
           url: https://hijoe.net/
@@ -198,10 +194,6 @@
           logo: sunliang.cn.png
           url: http://sunliang.cn/
           description: 忙里偷闲，自言自语
-        - title: 浮白载笔
-          logo: www.winature.com.png
-          url: http://www.winature.com/
-          description: 浮白载笔的个人博客
         - title: Young Free! 
           logo: www.youngfree.cn.png
           url: https://www.youngfree.cn/
@@ -425,10 +417,6 @@
           logo: www.lieking.com.png
           url: https://www.lieking.com/
           description: 时光笔记
-        - title: 大程哥
-          logo: dachengge.com.png
-          url: http://dachengge.com/
-          description: 大程哥
         - title: 笛声
           logo: hqidi.com.png
           url: https://hqidi.com/
@@ -457,10 +445,6 @@
           logo: blog.catscarlet.com.png
           url: https://blog.catscarlet.com/
           description: 灵魂沉为石樱，灯笼映出暗影
-        - title: JiaYin's Life
-          logo: imjiayin.com.png
-          url: https://imjiayin.com/
-          description: I am not perfect but my life is.
         - title: 银河系漫游指南
           logo: www.stylefanr.org.png
           url: https://www.stylefanr.org/
@@ -477,10 +461,10 @@
           logo: www.cjzsy.com.png
           url: https://www.cjzsy.com/
           description: 原创文字，随笔而动
-        - title: 读来依然个人博客
+        - title: 读来依然摄影博客
           logo: yir.me.png
           url: http://yir.me/
-          description: 活着，思考，追求，体验，分享
+          description: 活着，思考，追求，体验，分享，自由
         - title: An Andalue
           logo: www.anandalue.com.png
           url: http://www.anandalue.com/
@@ -620,10 +604,10 @@
           logo: www.huhexian.cn.png
           url: https://www.huhexian.cn/
           description: 胡和先的个人博客
-        - title: 水清无鱼博客
+        - title: 水清无鱼
           logo: www.bosir.cn.png
           url: https://www.bosir.cn/
-          description: 一个专注于禅修学习和分享的个人博客
+          description: 水至清则无鱼，人至察则无徒。
         - title: 忆往事
           logo: yiws.net.png
           url: https://yiws.net/
@@ -688,10 +672,6 @@
           logo: qingruoli.com.png
           url: https://qingruoli.com/
           description: 青箬笠
-        - title: 读来依然
-          logo: yir.me.png
-          url: http://yir.me/
-          description: 读来依然
         - title: 星球彦
           logo: note-star.cn.png
           url: https://note-star.cn/
@@ -736,10 +716,6 @@
           logo: thornbird.org.png
           url: https://thornbird.org/
           description: 鸟叔の窝
-        - title: 水清无鱼
-          logo: www.bosir.cn.png
-          url: https://www.bosir.cn/
-          description: 水清无鱼
         - title: 完美的胖达
           logo: wmdpd.com.png
           url: https://wmdpd.com/
