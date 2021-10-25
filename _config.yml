@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tool.cm-我的互联网工具箱
-keywords: 在线工具,网址导航,创意导航,UI设计,设计素材,设计资源,设计师导航,产品经理网址导航,个人博客导航
-description: Tool.cm - 收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站以及优秀个人独立博客站，定时更新分享优质产品设计书签。
+title: 博客百家 - BLOG.BJ
+keywords: BLOG,博客百家,博客导航,网址导航,创意导航,个人博客
+description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tool.cm" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.bj/" # the base hostname & protocol for your site, e.g. http://example.com
 
 static:
   path:
