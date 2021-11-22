@@ -180,7 +180,7 @@
           description: 扯远了
         - title: 老张博客
           logo: zhangbo.org.png
-          url: zhangbo.org.png-https://zhangbo.org/
+          url: https://zhangbo.org/
           description: 老张博客
         - title: 流金岁月
           logo: iliu.org.png
@@ -772,6 +772,10 @@
           logo: www.ntiy.com.png
           url: https://www.ntiy.com/
           description: 非理勿试
+        - title: 阿呆博客
+          logo: bo.ke.png
+          url: https://bo.ke
+          description: 我在人间凑数的日子
       
 
 #    - name: 博客工具
