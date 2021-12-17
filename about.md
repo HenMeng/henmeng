@@ -11,11 +11,9 @@ layout: about
         <blockquote>
             <p>有一段时间我发现我的收藏夹条目越来越多，很难找到某个不常用的书签，于是便有了这个网站。这里收录了许许多多优秀的个人独立博客，也都是我经常会访问的站点。也因此认识了很多志同道合的朋友，与成百上千的博主们一起，热衷于用文字记录生活、感悟人生！</p>
 			<br>
-			<p>如果您也是一个爱生活、爱写作的博主，欢迎加入我们！若需申请收录或者您有任何建议和意见，请点击下方图标给我发邮件。申请收录须提供 [<span style="color:red;">网站名称</span>] [<span style="color:red;">网站描述</span>] [<span style="color:red;">网站链接</span>] [<span style="color:red;">建站年份</span>] [<span style="color:red;">LOGO链接</span>] 等相关信息。</p>
+			<p>如果您也是一个爱生活、爱写作的博主，欢迎加入我们！若需申请收录或者您有任何建议和意见，请在下方评论区留言。申请收录须提供 [<span style="color:red;">网站名称</span>] [<span style="color:red;">网站描述</span>] [<span style="color:red;">网站链接</span>] [<span style="color:red;">建站年份</span>] [<span style="color:red;">LOGO链接</span>] 等相关信息。</p>
 			<br>
 			<p>本站仅限收录个人日志类博客，采集类、下载类、网赚、资讯、论坛、第三方博客平台以及含有违规内容的站点不予收录。一旦发现收录网站性质发生变化，不再符合前述要求的，站长将立即进行删除处理，并不作任何告知。</p>
-			<br>
-			<p><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=RXR1c3R9c3R1dQU0NGsmKig" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a></p>
         </blockquote>
     </div>
 </div>
@@ -45,6 +43,11 @@ layout: about
                 </blockquote>
             </div>
         </div>
-        <br></div>
+<br></div>
 </div>
+</div>
+<link rel="stylesheet" href="//c.fansx.com/tc.css"/>
+<div class="widget" id="side_comment">
+<div id="comment_r" style="margin-top:10px">
+<div id="tc_s169phenmeng"></div><script src="//c.fansx.com/?m=c1&sid=169&pid=henmeng"></script></div>
 </div>
