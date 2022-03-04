@@ -774,8 +774,12 @@
           description: 非理勿试
         - title: 阿呆博客
           logo: bo.ke.png
-          url: https://bo.ke
+          url: https://bo.ke/
           description: 我在人间凑数的日子
+        - title: 无何有之乡
+          logo: fsacg.cn.png
+          url: https://fsacg.cn/
+          description: 一个可爱与幽默，技术与文学并存的博客！
       
 
 #    - name: 博客工具
